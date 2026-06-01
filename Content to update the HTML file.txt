@@ -14,7 +14,6 @@
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Module Info</a></li>
-                <li><a href="#">Assignments</a></li>
                 <li><a href="#">Resources</a></li>
             </ul>
         </aside>
